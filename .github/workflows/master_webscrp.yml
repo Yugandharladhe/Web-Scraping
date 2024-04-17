@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'webscrp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1275BA48C806458BA11E9859CCE06AD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3AEED02C02BF49BA89BE5E216E508705 }}
